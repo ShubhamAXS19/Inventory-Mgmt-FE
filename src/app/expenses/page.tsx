@@ -5,7 +5,7 @@ import {
   useGetExpensesByCategoryQuery,
 } from "@/state/api";
 import { useMemo, useState } from "react";
-import Header from "@/app/(components)/Header/page";
+import Header from "@/app/(components)/Header/Header";
 import {
   Cell,
   Legend,
